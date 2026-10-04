@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# AI 助手的技能文档（本机使用，不进仓库）
+/.agents
+/.claude
+/skills-lock.json
+
+# Firebase 部署缓存（本机产物）
+/.firebase
